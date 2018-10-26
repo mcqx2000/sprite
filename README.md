@@ -1,2 +1,2 @@
 # sprite
-starting dream
+starting dream！
